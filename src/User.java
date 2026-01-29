@@ -12,4 +12,7 @@ public class User {
         System.out.println("Name: " + name);
         System.out.println("Role: " + role);
     }
+    public void greet() {
+    System.out.println("Bienvenue dans l'application");
+}
 }
