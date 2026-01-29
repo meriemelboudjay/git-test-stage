@@ -7,3 +7,6 @@ Objectifs :
 - Travailler avec des branches
 - Créer une Pull Request
 - Comprendre la revue de code et le merge
+
+
+Ajout d'une modification par un collaborateur simulé
