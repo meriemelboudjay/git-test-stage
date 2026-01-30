@@ -15,4 +15,8 @@ public class User {
     public void greet() {
     System.out.println("Bienvenue dans l'application");
 }
+
+public boolean isAdmin() {
+        return role.equalsIgnoreCase("admin");
+    }
 }
